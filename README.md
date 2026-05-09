@@ -17,10 +17,10 @@
 
 Mac mini (ARM)를 홈서버로 굴리고 있습니다.
 
-- **Jellyfin** — 미디어 서버
-- **Tailscale** — 어디서든 안전하게 접속
-- **cloudflared** — 외부 노출 없이 서비스 터널링
-- **Docker** — 컨테이너로 깔끔하게 격리
+- **Jellyfin** - 미디어 서버
+- **Tailscale** - 어디서든 안전하게 접속
+- **cloudflared** - 외부 노출 없이 서비스 터널링
+- **Docker** - 컨테이너로 깔끔하게 격리
 
 <br/>
 
